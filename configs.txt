@@ -3,7 +3,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.107.164.217:443?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.190-0805
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.100:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.189-0196
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.211:443?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6202b230-417c-4d5558e-b624-0f71afa9c75d@160.153.1.211:443?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-45555555417c-4d8e-b624-0f71afa9c75d@217.65.79.122:2053?encryption=none&security=tls&sni=sni.111000.dns.army&allowInsecure=1&type=ws&host=sni.111000.dns.army&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.96:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.43:443?encryption=none&security=tls&sni=sni.111000.cc.cd&allowInsecure=1&type=ws&host=sni.111000.cc.cd&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
